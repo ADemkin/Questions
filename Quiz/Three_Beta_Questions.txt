@@ -1,0 +1,24 @@
+A simple quiz to test script.
+Are you ready for a quiz?
+Yes
+No
+Not Sure
+I dont know man...
+1
+You should be ready man!
+
+Can you select an answer number four?
+No
+Never
+I dunno
+Absolutely
+4
+You should select answer number 4
+
+Which one is not a programming language?
+C++
+HTML/CSS
+Python
+Java
+2
+HTML and CSS is not a programming language. It is a hypertext mark up language, but you cant code any apps using it.

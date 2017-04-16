@@ -1,0 +1,16 @@
+[quiz name to show in program]
+[question name]
+[answer 1]
+[answer 2]
+[answer 3]
+[answer 4, next is a number of correct answer, from 1 to 4 with a single letter]
+1
+[explanation, printed if given incorrect answer. Next is empty line]
+
+[question name]
+[answer 1]
+[answer 2]
+[answer 3]
+[answer 4, next is a number of correct answer, from 1 to 4 with a single letter]
+4
+[explanation, printed if given incorrect answer. No empty line if file is finished]
